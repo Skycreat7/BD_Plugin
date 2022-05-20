@@ -5,7 +5,7 @@
 * @version 0.0.1
 * @description Skycreat's Smart BD Plugin
 * @source https://github.com/Skycreat7/BD_Plugin/blob/main/plugin
-* @updateUrl https://github.com/Skycreat7/BD_Plugin/blob/main/plugin/SkyPlugBD.plugin.js
+* @updateUrl https://github.com/Skycreat7/BD_Plugin/blob/main/SkyPlugBD.plugin.js
 */
 module.exports = (_ => {
 	const config = {
