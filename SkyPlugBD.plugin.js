@@ -13,7 +13,7 @@ module.exports = (_ => {
 			"name": "SkyPlugBD",
 			"author": "Skycreat",
 			"version": "0.0.1",
-			"description": "Skycreat's Smart BD Plugin"s
+			"description": "Skycreat's Smart BD Plugin"
 		}
 	};
 
